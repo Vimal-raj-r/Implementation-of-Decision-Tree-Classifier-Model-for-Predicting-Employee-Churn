@@ -7,7 +7,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
+1.Split the dataset into features (X) and target (y), and preprocess the data.
+2.Split data into training and testing sets.
+3.Train the Decision Tree Classifier using the training data.
+4.Predict and evaluate the model on the test data, then visualize the decision tre
 
 
 ## Program:
